@@ -1,4 +1,4 @@
-# appcdrootless-
+# appcd Lite (Rootless Edition)
 Appcd is succesor of cappd
 now is support rootless jailbreak.
 
